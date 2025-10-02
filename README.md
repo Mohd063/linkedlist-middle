@@ -20,5 +20,5 @@ Key features:
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/linkedlist-middle.git
+git clone https://github.com/Mohd063/linkedlist-middle.git
 cd linkedlist-middle
